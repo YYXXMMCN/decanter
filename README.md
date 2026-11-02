@@ -59,7 +59,7 @@
 
 ### 使用发布便携包
 
-1. 下载 `Decanter-v1.0-portable.zip`。
+1. 下载 `Decanter-v0.11-final-portable.zip`。
 2. 解压到任意可写目录。
 3. 双击 `Start-Main.cmd` 直接进主界面；或双击 `Decanter.exe` 先看悬浮窗。
 4. 备份就是复制 `data\`；升级只需替换 exe/dll，保留 `data\`。
