@@ -1,0 +1,20 @@
+# Build output / local data
+run/
+bin/
+obj/
+.vs/
+data/
+logs/
+*.db
+*.log
+*.user
+*.suo
+*.zip
+
+# Installer build artifacts
+installer/build/
+installer/obj/
+
+.tmp*/
+*.tmp
+
